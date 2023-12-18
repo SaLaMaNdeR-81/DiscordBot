@@ -8,6 +8,8 @@
 
 > 2- **Push** Blow code in Config.json and Enter Your Data in File
 
+> 3- **Run** Run.bat File and Enjoy ☕😃
+
 ---
 
 ```json
